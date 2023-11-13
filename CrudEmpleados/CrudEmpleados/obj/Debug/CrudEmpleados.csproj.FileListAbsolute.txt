@@ -1,0 +1,11 @@
+C:\Users\USER\Downloads\CrudEmpleados\CrudEmpleados\bin\Debug\CrudEmpleados.exe.config
+C:\Users\USER\Downloads\CrudEmpleados\CrudEmpleados\bin\Debug\CrudEmpleados.exe
+C:\Users\USER\Downloads\CrudEmpleados\CrudEmpleados\bin\Debug\CrudEmpleados.pdb
+C:\Users\USER\Downloads\CrudEmpleados\CrudEmpleados\obj\Debug\CrudEmpleados.csproj.AssemblyReference.cache
+C:\Users\USER\Downloads\CrudEmpleados\CrudEmpleados\obj\Debug\CrudEmpleados.DetallesContactos.resources
+C:\Users\USER\Downloads\CrudEmpleados\CrudEmpleados\obj\Debug\CrudEmpleados.Main.resources
+C:\Users\USER\Downloads\CrudEmpleados\CrudEmpleados\obj\Debug\CrudEmpleados.Properties.Resources.resources
+C:\Users\USER\Downloads\CrudEmpleados\CrudEmpleados\obj\Debug\CrudEmpleados.csproj.GenerateResource.cache
+C:\Users\USER\Downloads\CrudEmpleados\CrudEmpleados\obj\Debug\CrudEmpleados.csproj.CoreCompileInputs.cache
+C:\Users\USER\Downloads\CrudEmpleados\CrudEmpleados\obj\Debug\CrudEmpleados.exe
+C:\Users\USER\Downloads\CrudEmpleados\CrudEmpleados\obj\Debug\CrudEmpleados.pdb
